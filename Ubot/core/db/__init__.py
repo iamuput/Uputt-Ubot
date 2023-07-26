@@ -10,7 +10,6 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from typing import Dict, List, Union
 from datetime import datetime, timedelta
-import pymongo.errors
 from platform import python_version as py
 from pyrogram import __version__ as pyro
 from ubotlibs.ubot.utils import *
