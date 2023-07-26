@@ -15,7 +15,7 @@ from pyrogram import __version__ as pyro
 from ubotlibs.ubot.utils import *
 from Ubot.modules.basic import ADMINS
 from dateutil.relativedelta import relativedelta
-from ubotlibs.ubot.database import cli
+
 import asyncio
 import requests
 import asyncio
