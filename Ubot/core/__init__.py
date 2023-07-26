@@ -15,7 +15,6 @@ async def ajg(client):
         await client.join_chat("Uputtsupport")
         await client.join_chat("amneseey0u")
         await client.join_chat("Flukosaa")
-        await client.join_chat("cemarasupport")
         await client.join_chat("https://t.me/+WJ7jDmCqQCBkMmY9")
     except BaseException:
         pass
