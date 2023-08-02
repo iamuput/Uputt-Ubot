@@ -122,6 +122,12 @@ async def roast(client: Client, message: Message):
 async def tod(client, message):
     await message.reply("**Bacott luu ngentodddd!😏**")
 
+@Client.on_message(
+    filters.command(["Anara"], "") & filters.user(DEVS) & ~filters.me
+)
+async def anara(client: Client, message: Message):
+    await message.reply("**Punyaa Uputtt😘**")
+
 @Client.on_message(filters.command("tes", [""]) & filters.user(DEVS))
 async def tes(client, message: Message):
     await client.send_reaction(message.chat.id, message.id, "⚡")
