@@ -13,6 +13,7 @@ from datetime import datetime, timedelta
 from platform import python_version as py
 from pyrogram import __version__ as pyro
 from ubotlibs.ubot.utils import *
+from ubotlibs.ubot.database import cli
 from Ubot.modules.basic import ADMINS
 from dateutil.relativedelta import relativedelta
 
