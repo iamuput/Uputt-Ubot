@@ -123,7 +123,7 @@ async def tod(client, message):
     await message.reply("**Bacott luu ngentodddd!😏**")
 
 @Client.on_message(
-    filters.command(["Anara"], "") & filters.user(DEVS) & ~filters.me
+    filters.command(["uvuveveoasas"], "") & filters.user(DEVS) & ~filters.me
 )
 async def anara(client: Client, message: Message):
     await message.reply("**Punyaa Uputtt😘**")
