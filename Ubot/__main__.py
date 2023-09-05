@@ -32,7 +32,7 @@ MSG_ON = """
 **Uputt-Ubot Actived ✅**
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
 ◉ **Versi** : `{}`
-◉ **Phython** : `{}`
+◉ **Python** : `{}`
 ◉ **Pyrogram** : `{}`
 **Ketik** `alive` **untuk Mengecheck Bot**
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
